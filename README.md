@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PanderzGG
 - 👀 I’m interested in Coding, Martial Arts and Gaming
-- 🌱 I’m currently learning .NET Developing
+- This repo will mostly contain learning and exercise projects for the time being. Code will probably be garbage
+- 🌱 I’m currently learning .NET .ASP Developing
 - 💞️ I’m looking to collaborate on nothing
 
 <!---
